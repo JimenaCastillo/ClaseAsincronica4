@@ -1,0 +1,98 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC MASTER\\Downloads\\BTS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{61C67FDC-091C-46AB-AF53-AFBFA3F13655}|..\\TestBST\\TestBST.csproj|c:\\users\\pc master\\downloads\\testbst\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BD9E79E-F135-4A48-9CD5-BF9391B62360}|BTS.csproj|c:\\users\\pc master\\downloads\\bts\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BD9E79E-F135-4A48-9CD5-BF9391B62360}|BTS.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61C67FDC-091C-46AB-AF53-AFBFA3F13655}|..\\TestBST\\TestBST.csproj|c:\\users\\pc master\\downloads\\testbst\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BD9E79E-F135-4A48-9CD5-BF9391B62360}|BTS.csproj|c:\\users\\pc master\\downloads\\bts\\bst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BD9E79E-F135-4A48-9CD5-BF9391B62360}|BTS.csproj|solutionrelative:bst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Test1.cs",
+              "DocumentMoniker": "C:\\Users\\PC MASTER\\Downloads\\TestBST\\Test1.cs",
+              "RelativeDocumentMoniker": "..\\TestBST\\Test1.cs",
+              "ToolTip": "C:\\Users\\PC MASTER\\Downloads\\TestBST\\Test1.cs",
+              "RelativeToolTip": "..\\TestBST\\Test1.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T02:15:42.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MSTestSettings.cs",
+              "DocumentMoniker": "C:\\Users\\PC MASTER\\Downloads\\TestBST\\MSTestSettings.cs",
+              "RelativeDocumentMoniker": "..\\TestBST\\MSTestSettings.cs",
+              "ToolTip": "C:\\Users\\PC MASTER\\Downloads\\TestBST\\MSTestSettings.cs",
+              "RelativeToolTip": "..\\TestBST\\MSTestSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T02:15:01.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BST.cs",
+              "DocumentMoniker": "C:\\Users\\PC MASTER\\Downloads\\BTS\\BST.cs",
+              "RelativeDocumentMoniker": "BST.cs",
+              "ToolTip": "C:\\Users\\PC MASTER\\Downloads\\BTS\\BST.cs",
+              "RelativeToolTip": "BST.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T02:12:32.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC MASTER\\Downloads\\BTS\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\PC MASTER\\Downloads\\BTS\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T02:11:45.277Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

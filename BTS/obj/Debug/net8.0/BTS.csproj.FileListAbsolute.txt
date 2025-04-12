@@ -1,0 +1,14 @@
+C:\Users\PC MASTER\Downloads\BTS\bin\Debug\net8.0\BTS.exe
+C:\Users\PC MASTER\Downloads\BTS\bin\Debug\net8.0\BTS.deps.json
+C:\Users\PC MASTER\Downloads\BTS\bin\Debug\net8.0\BTS.runtimeconfig.json
+C:\Users\PC MASTER\Downloads\BTS\bin\Debug\net8.0\BTS.dll
+C:\Users\PC MASTER\Downloads\BTS\bin\Debug\net8.0\BTS.pdb
+C:\Users\PC MASTER\Downloads\BTS\obj\Debug\net8.0\BTS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC MASTER\Downloads\BTS\obj\Debug\net8.0\BTS.AssemblyInfoInputs.cache
+C:\Users\PC MASTER\Downloads\BTS\obj\Debug\net8.0\BTS.AssemblyInfo.cs
+C:\Users\PC MASTER\Downloads\BTS\obj\Debug\net8.0\BTS.csproj.CoreCompileInputs.cache
+C:\Users\PC MASTER\Downloads\BTS\obj\Debug\net8.0\BTS.dll
+C:\Users\PC MASTER\Downloads\BTS\obj\Debug\net8.0\refint\BTS.dll
+C:\Users\PC MASTER\Downloads\BTS\obj\Debug\net8.0\BTS.pdb
+C:\Users\PC MASTER\Downloads\BTS\obj\Debug\net8.0\BTS.genruntimeconfig.cache
+C:\Users\PC MASTER\Downloads\BTS\obj\Debug\net8.0\ref\BTS.dll
